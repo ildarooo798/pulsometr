@@ -1,0 +1,13 @@
+
+*{
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
+}
+.container{
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import 'base/variables.scss';
+@import 'blocks/promo.scss';
+@import 'blocks/header.scss';
+@import 'blocks/buttons.scss';
