@@ -6,8 +6,14 @@
     max-width: 950px;
     margin: 0 auto;
 }
-
+.block_title{
+    font-family: 'Museo Sans Cyrl 300', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
 @import 'base/variables.scss';
 @import 'blocks/promo.scss';
 @import 'blocks/header.scss';
 @import 'blocks/buttons.scss';
+@import 'blocks/advantages.scss';
